@@ -1,0 +1,1 @@
+pricing-deals-for-woocommerce
